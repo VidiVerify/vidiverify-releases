@@ -1,7 +1,7 @@
 {
   "version": "1.4.2",
   "setup_url": "https://github.com/VidiVerify/vidiverify-releases/releases/download/v1.4.2/VidiVerify-Setup.exe",
-  "setup_sha256": "32D586F386B4DCD993EC010EEF353D4EA02A21F77E731981CD933CB528D12CE5",
+  "setup_sha256": "93E53F8D1DC57655678191F118C686A8B36957216BE5D9F3143299EE0DF34790",
   "exe_url": "https://github.com/VidiVerify/vidiverify-releases/releases/download/v1.4.2/VidiVerify.exe",
-  "exe_sha256": "251F401D13BF0AF033E72263F58704C2C39EF827B71A3F9C93E2754EC3834AFC"
+  "exe_sha256": "305E0B79CB706A9CEE3F7115D1F30B94975DA536CD75AF40B2E15365C00EF169"
 }
